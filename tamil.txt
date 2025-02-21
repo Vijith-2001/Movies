@@ -1,0 +1,8 @@
+1.
+
+
+name : Amaran
+
+director : Rajkumar
+
+released_year : 2024
